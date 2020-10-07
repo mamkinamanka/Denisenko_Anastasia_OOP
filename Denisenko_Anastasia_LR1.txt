@@ -54,3 +54,5 @@
 	- $ git checkout SecBranch
     Были объединены ветки SecBranch и master с помощью команды:
 	- $ git merge SecBranch
+    Была создана ветка:git branch
+	- $ git branch ConflictBr    
