@@ -52,3 +52,5 @@
 	- $ git branch SecBranch  
     Было произведено перемещение к новой ветке:
 	- $ git checkout SecBranch
+    Были объединены ветки SecBranch и master с помощью команды:
+	- $ git merge SecBranch
