@@ -55,4 +55,6 @@
     Были объединены ветки SecBranch и master с помощью команды:
 	- $ git merge SecBranch
     Была создана ветка:git branch
-	- $ git branch ConflictBr    
+	- $ git branch ConflictBr
+    Была удалена ветка ConflictBr с помощью команды:
+	- $ git branch -d CoflictBr
